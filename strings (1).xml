@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gemini Player</string>
+    <string name="service_desc">Allows user-requested screen text reading, gestures, and insertion of text supplied by the user.</string>
+</resources>
